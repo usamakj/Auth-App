@@ -1,0 +1,13 @@
+{
+  "name": "mern-auth-app",
+  "version": "1.0.0",
+  "description": "This is a complete MERN (MongoDB, Express.js, React, Node.js) stack application that implements user registration, login, and comment posting functionality. The application meets all the specified requirements for the web programming assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
